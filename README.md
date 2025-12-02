@@ -1,3 +1,5 @@
+![](./src/header.jpg)
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?color=F75C7E&size=30&duration=5000&pause=2500&vCenter=true&center=true&lines=Hi+there%2C+I'm+Laurin👋;Welcome+to+my+profile!;Student+at+HTL-Villach)](https://git.io/typing-svg)
 
 
