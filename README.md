@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?color=F75C7E&size=30&duration=5000&pause=2500&vCenter=true&center=true&lines=Hi+there%2C+I'm+Laurin👋;Welcome+to+my+profile!;Student+at+HTL-Villach)](https://git.io/typing-svg)
 
 
-<h3  style="color:#F75C7E;">17-year-old aspiring web developer.</h3>
+<h3  style="color:#F75C7E;">18-year-old aspiring web developer.</h3>
 
 
 
